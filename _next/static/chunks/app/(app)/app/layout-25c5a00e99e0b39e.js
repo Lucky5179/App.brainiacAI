@@ -1415,7 +1415,7 @@
                         children: [
                           (0, s.jsx)("img", {
                             src: "/brian_logo.png",
-                            alt: "Brian Knows logo",
+                            alt: "Brainiac AI Knows logo",
                             className: "h-12",
                           }),
                           (0, s.jsx)("h1", {
@@ -1423,7 +1423,7 @@
                               "text-4xl font-bold transition opacity-100 ",
                               !i && "invisible w-0 h-0 opacity-0"
                             ),
-                            children: "Brian",
+                            children: "Brainiac AI",
                           }),
                         ],
                       }),
